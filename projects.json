@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "name": "Portifólio",
+      "description": "Me apresentando e mostrando minha trajetória",
+      "url_local": "../Portifolio/dist/index.html",
+      "url_network": "https://portifolio-daniel-eloy.netlify.app/",
+      "url_network_secund": "https://apresentacaocv.netlify.app/",
+      "icon": "fas fa-folder-open",
+      "type": "folder"
+    },
+    {
+      "name": "Certificados",
+      "description": "Projeto de gestão dos certificados de conclusão",
+      "url_local": "../Certificados/build/index.html",
+      "url_network": "https://certificadosdanieleloy.netlify.app",
+      "icon": "fas fa-certificate",
+      "type": "folder"
+    },
+    {
+      "name": "Projeto 01",
+      "description": "Desenvolvendo a primeira landing page do curso",
+      "url_local": "../Desafio01/Introducao_ao_Desenvolvimento_Web/RID183995_Desafio01/index.html",
+      "url_network": "https://dnc-desafio01-landing-page.netlify.app/",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 02",
+      "description": "Desenvolvendo site com responsividade usando CSS e Media Queries",
+      "url_local": "../Desafio02/Responsividade_CSS_com_Media_Queries/RID183995_Desafio02/index.html",
+      "url_network": "https://dnc-desafio-02.netlify.app/",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 03",
+      "description": "Desenvolvendo site com JavaScript",
+      "url_local": "../Desafio03/Fundamentos_de_Javascript/RID183995_Desafio03/index.html",
+      "url_network": "https://dnc-desafio03.netlify.app/",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 04",
+      "description": "Desenvolvendo site com React, CSS e JavaScript",
+      "url_local": "../Desafio04/Introducao_ao_React_JS_com_CSS_e_JavaScript/dist/index.html",
+      "url_network": "https://dnc-desafio04.netlify.app/",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 05",
+      "description": "Desenvolvendo site com Node.js e TypeScript",
+      "url_local": "../Desafio05/Introducao_ao_Node_js_com_TypeScript/dist/index.html",
+      "url_network": "https://dnc-desafio05.netlify.app/",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 06",
+      "description": "Desenvolvendo com Node.js, TypeScript painel de monitoramento de vendas | Login: daniel@dnc.com | Password: @DNCReact178#",
+      "url_local": "../Desafio06/introducao_ao_NPM_node_Package_manager/index.html",
+      "url_network": "https://dnc-desafio06.netlify.app/",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 07",
+      "description": "NPM (node Package manager), lib para contagem de data e disponibilizando no NPM",
+      "url_local": "../Desafio07/introducao_ao_NPM_node_Package_manager/index.html",
+      "url_network": "https://dnc-desafio07.netlify.app/",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Documentação",
+      "description": "README do projeto",
+      "url_network": "https://github.com/DanielEloy/DNC_TechLead/blob/main/README.md",
+      "icon": "fas fa-book",
+      "type": "file"
+    }
+  ]
+}
