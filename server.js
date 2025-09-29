@@ -12,7 +12,7 @@ dotenv.config();
 const app = express();
 app.use(cors({
   origin: [
-    'https://certificadosdanieleloy.netlify.app',
+    'https://myprojectsdanieleloy.netlify.app',
     'http://localhost:3000',
     'http://localhost:5173'
   ],
