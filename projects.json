@@ -6,6 +6,7 @@
       "url_local": "../Portifolio/dist/index.html",
       "url_network": "https://portifolio-daniel-eloy.netlify.app/",
       "url_network_secund": "https://apresentacaocv.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Portifolio/README.md",
       "icon": "fas fa-folder-open",
       "type": "folder"
     },
@@ -14,6 +15,7 @@
       "description": "Projeto de gestão dos certificados de conclusão",
       "url_local": "../Certificados/build/index.html",
       "url_network": "https://certificadosdanieleloy.netlify.app",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/tree/main/Certificados#readme",
       "icon": "fas fa-certificate",
       "type": "folder"
     },
@@ -22,6 +24,7 @@
       "description": "Desenvolvendo a primeira landing page do curso",
       "url_local": "../Desafio01/Introducao_ao_Desenvolvimento_Web/RID183995_Desafio01/index.html",
       "url_network": "https://dnc-desafio01-landing-page.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio01/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
     },
@@ -30,6 +33,7 @@
       "description": "Desenvolvendo site com responsividade usando CSS e Media Queries",
       "url_local": "../Desafio02/Responsividade_CSS_com_Media_Queries/RID183995_Desafio02/index.html",
       "url_network": "https://dnc-desafio-02.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio02/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
     },
@@ -38,6 +42,7 @@
       "description": "Desenvolvendo site com JavaScript",
       "url_local": "../Desafio03/Fundamentos_de_Javascript/RID183995_Desafio03/index.html",
       "url_network": "https://dnc-desafio03.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio03/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
     },
@@ -46,6 +51,7 @@
       "description": "Desenvolvendo site com React, CSS e JavaScript",
       "url_local": "../Desafio04/Introducao_ao_React_JS_com_CSS_e_JavaScript/dist/index.html",
       "url_network": "https://dnc-desafio04.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio04/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
     },
@@ -54,6 +60,7 @@
       "description": "Desenvolvendo site com Node.js e TypeScript",
       "url_local": "../Desafio05/Introducao_ao_Node_js_com_TypeScript/dist/index.html",
       "url_network": "https://dnc-desafio05.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio05/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
     },
@@ -62,6 +69,7 @@
       "description": "Desenvolvendo com Node.js, TypeScript painel de monitoramento de vendas | Login: daniel@dnc.com | Password: @DNCReact178#",
       "url_local": "../Desafio06/introducao_ao_NPM_node_Package_manager/index.html",
       "url_network": "https://dnc-desafio06.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio06/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
     },
@@ -70,6 +78,25 @@
       "description": "NPM (node Package manager), lib para contagem de data e disponibilizando no NPM",
       "url_local": "../Desafio07/introducao_ao_NPM_node_Package_manager/index.html",
       "url_network": "https://dnc-desafio07.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio07/README.md",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 08",
+      "description": "API de Gerenciamento de Biblioteca (Backend)",
+      "url_local": "../Desafio08/API_de_Gerenciamento_de_Biblioteca/index.js",
+      "url_network": "https://github.com/DanielEloy/DNC_TechLead/tree/main/Desafio08",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio08/README.md",
+      "icon": "fas fa-code",
+      "type": "challenge"
+    },
+    {
+      "name": "Projeto 09",
+      "description": "API de Gerenciamento de Biblioteca (FRONTEND + BACKEND)",
+      "url_local": "../Desafio09/Api_gestao_de_livros/RID183995/frontend/index.html",
+      "url_network": "https://github.com/DanielEloy/DNC_TechLead/tree/main/Desafio09",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio09/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
     },
@@ -77,6 +104,7 @@
       "name": "Documentação",
       "description": "README do projeto",
       "url_network": "https://github.com/DanielEloy/DNC_TechLead/blob/main/README.md",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/README.md",
       "icon": "fas fa-book",
       "type": "file"
     }
