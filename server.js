@@ -6,7 +6,7 @@ import axios from "axios";
 import fs from "fs";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
-import { logger } from "../../utils/logger";
+import { logger } from "./utils/logger";
 
 // ================== CONFIGURAÇÃO INICIAL ==================
 dotenv.config();
