@@ -6,7 +6,7 @@ import axios from "axios";
 import fs from "fs";
 import { fileURLToPath } from "url";
 import { dirname, join } from "path";
-import { logger } from "./utils/logger";
+import { logger } from '../utils/logger.js';
 
 // ================== CONFIGURAÇÃO INICIAL ==================
 dotenv.config();
@@ -29,7 +29,7 @@ app.use(
     credentials: true,
   })
 );
-
+logger.info('Servidor iniciado com sucesso!', logger);
 // ================== RESOLUÇÃO DE DIRETÓRIOS ==================
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
