@@ -12,7 +12,7 @@ import { logger } from './utils/logger.js';
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT ? Number(process.env.PORT) : 5000;
 const API_KEY = process.env.GEMINI_API_KEY || "";
 const BASE_URL =
   "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
@@ -29,7 +29,7 @@ app.use(
     credentials: true,
   })
 );
-logger.info('Servidor iniciado com sucesso!', logger);
+
 // ================== RESOLUÇÃO DE DIRETÓRIOS ==================
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);

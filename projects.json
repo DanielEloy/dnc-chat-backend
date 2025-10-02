@@ -1,24 +1,6 @@
 {
   "projects": [
-    {
-      "name": "Portifólio",
-      "description": "Me apresentando e mostrando minha trajetória",
-      "url_local": "../Portifolio/dist/index.html",
-      "url_network": "https://portifolio-daniel-eloy.netlify.app/",
-      "url_network_secund": "https://apresentacaocv.netlify.app/",
-      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Portifolio/README.md",
-      "icon": "fas fa-folder-open",
-      "type": "folder"
-    },
-    {
-      "name": "Certificados",
-      "description": "Projeto de gestão dos certificados de conclusão",
-      "url_local": "../Certificados/build/index.html",
-      "url_network": "https://certificadosdanieleloy.netlify.app",
-      "readme": "https://github.com/DanielEloy/DNC_TechLead/tree/main/Certificados#readme",
-      "icon": "fas fa-certificate",
-      "type": "folder"
-    },
+    
     {
       "name": "Projeto 01",
       "description": "Desenvolvendo a primeira landing page do curso",
@@ -99,6 +81,25 @@
       "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Desafio09/README.md",
       "icon": "fas fa-code",
       "type": "challenge"
+    },
+    {
+      "name": "Portifólio",
+      "description": "Me apresentando e mostrando minha trajetória",
+      "url_local": "../Portifolio/dist/index.html",
+      "url_network": "https://portifolio-daniel-eloy.netlify.app/",
+      "url_network_secund": "https://apresentacaocv.netlify.app/",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/blob/main/Portifolio/README.md",
+      "icon": "fas fa-folder-open",
+      "type": "folder"
+    },
+    {
+      "name": "Certificados",
+      "description": "Projeto de gestão dos certificados de conclusão",
+      "url_local": "../Certificados/build/index.html",
+      "url_network": "https://certificadosdanieleloy.netlify.app",
+      "readme": "https://github.com/DanielEloy/DNC_TechLead/tree/main/Certificados#readme",
+      "icon": "fas fa-certificate",
+      "type": "folder"
     },
     {
       "name": "Documentação",
